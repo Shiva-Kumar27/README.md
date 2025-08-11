@@ -4,7 +4,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## (ง •_•)ง About Me
 
 - 🎓 **Student** in Computer Science (Data Science)
 - 🐍 Skilled in **Python**, **C**, and basic **Java**
